@@ -36,5 +36,3 @@ It is useful for log analytics, visualization, uploading to databases and monito
 ## Format of output lines
 
 `Дата \t Время \t Уровень \t RawLevel \t Метод \t Сообщение`
-
----
